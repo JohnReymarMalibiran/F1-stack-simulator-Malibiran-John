@@ -1,3 +1,7 @@
+John Reymar B. Malibiran
+BSIT WMT 4-2 
+https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+
 # Flask Stack Simulator startup template
 
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
